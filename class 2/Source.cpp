@@ -2,5 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "Vasya"
+	cout << "Vasya";
+	cout << "(_=_)";
 }
